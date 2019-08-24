@@ -1,0 +1,2 @@
+# TaekwondoInstitution-sWebApplication
+A Master Stephanos Taekwondo Web application manages student and inventory systems. It is designed with a main goal to help Master Stephanos to manage student, inventory and other related records. He can search with various conditions such as belt color, city, year and student name and so on. He can also keep the track of student's attendance, fees history, inventory, orders and suppliers systematically
