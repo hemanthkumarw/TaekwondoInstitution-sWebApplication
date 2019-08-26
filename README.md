@@ -5,7 +5,7 @@
 ## Table of contents
 * [Technologies](#technologies)
 * [Running the Application](#running-the-application)
-* [Snapshots](#snapshots)
+* [Snapshot](#snapshots)
 * [Contact](#contact)
 
 ## Technologies
@@ -19,7 +19,7 @@
 * Step 2: Open the project in Visual Studio and connect it to the database by clicking on the Add Database Connection.
 * Step 3: Once the database is connected, Click on View without debugging option, the Web Application will run on your localhost system.
 
-## Snapshots
+## Snapshot
 ![Example snapshot](./snapshot/t1.png) 
 ![Example snapshot](./snapshot/t2.png)
 ![Example snapshot](./snapshot/t3.png)
